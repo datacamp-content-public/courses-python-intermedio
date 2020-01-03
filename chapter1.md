@@ -1,9 +1,9 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Manipulación de Webcam'
+description: 'Lo necesario para usar una webcam con Python.'
 ---
 
-## Example coding exercise
+## OpenCV
 
 ```yaml
 type: NormalExercise
@@ -39,4 +39,46 @@ This is an example exercise.
 `@sct`
 ```{python}
 
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: e796f67e98
+xp: 100
+```
+
+<!-- Guidelines for contexts: https://instructor-support.datacamp.com/en/articles/2375526-course-coding-exercises. -->
+
+`@instructions`
+<!-- Guidelines for instructions https://instructor-support.datacamp.com/en/articles/2375526-course-coding-exercises. -->
+- Instruction 1
+- Instruction 2
+
+`@hint`
+<!-- Examples of good hints: https://instructor-support.datacamp.com/en/articles/2379164-hints-best-practices. -->
+- This is an example hint.
+- This is an example hint.
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+# Examples of good success messages: https://instructor-support.datacamp.com/en/articles/2299773-exercise-success-messages.
 ```
